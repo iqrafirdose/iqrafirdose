@@ -4,12 +4,15 @@
 <h3 align="center">A Girl trying to learn and know new things and sharing them</h3>
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqrafirdose&label=Profile%20views&color=0e75b6&style=flat" alt="iqrafirdose" /> </p>
 
-<img src="https://user-images.githubusercontent.com/114678694/208752515-25d199ce-7831-4bec-92cb-01a8ae5520dd.jpg" >
+![iqranewbanner](https://github.com/iqrafirdose/iqrafirdose/assets/114678694/6cad1aba-37ae-467a-b735-25fff11253fc)
+
+
 
 - 👨‍💻 I contributed to Hacktoberfest 2022 
-- 👨‍💻 I contributed to Hacktoberfest with Aviyel and become a top creator.
+- 👨‍💻 I contributed to Aviyel and become a top creator.
 - 📝 I regularly write articles on Hashnode and showwcase
 
 <img src="https://user-images.githubusercontent.com/114678694/208755362-0bc63dba-582b-4aa2-bfa9-9150dd978c45.jpg">
